@@ -9,8 +9,6 @@
   <li>Menu-driven CLI for smooth navigation</li>
   <li>Simple data storage using text or JSON files</li>
      </ul>
-
-  
 <h1>🛠️Prerequisites</h1>
  <ul type ="disc>
   <li>Python 3 installed on your system</li>
@@ -19,7 +17,7 @@
     </ul>
     <pre>pip install json datetime prettytable</pre>
 
-  <h1>How to Use</h1>
+<h1>How to Use</h1>
   <ol type = "1">
     <li>Clone the repository</li>
       <pre>git clone https://github.com/your-username/university-management-system.git
