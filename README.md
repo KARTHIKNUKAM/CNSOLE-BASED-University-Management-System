@@ -28,7 +28,10 @@
     https://github.com/KARTHIKNUKAM/CONSOLE-BASED-University-Management- 
     System/blob/main/README.md
       ```
-    
+       ```sh
+      https://github.com/KARTHIKNUKAM/CONSOLE-BASED-University-Management- 
+    System/blob/main/README.md
+         ```
  2.Run the script:
        ```sh
        python main.py
