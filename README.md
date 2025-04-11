@@ -9,8 +9,10 @@
   <li>Menu-driven CLI for smooth navigation</li>
   <li>Simple data storage using text or JSON files</li>
      </ul>
-<h1>🛠️ Prerequisites</h1>
-<ul type ="disc>
+
+  
+<h1>🛠️Prerequisites</h1>
+ <ul type ="disc>
   <li>Python 3 installed on your system</li>
   <li>Basic knowledge of Python, OOP, and file handling</li>
   <li>Required Python libraries (mostly built-in):</li>
