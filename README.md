@@ -8,7 +8,7 @@
   <li>Role-based access: Admin, Faculty, and Student views</li>
   <li>Menu-driven CLI for smooth navigation</li>
   <li>Simple data storage using text or JSON files</li>
-   </ul>
+     </ul>
 <h1>🛠️ Prerequisites</h1>
 <ul type ="disc>
   <li>Python 3 installed on your system</li>
