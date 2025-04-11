@@ -27,11 +27,11 @@
     ```sh
     https://github.com/KARTHIKNUKAM/CONSOLE-BASED-University-Management- 
     System/blob/main/README.md
-       ```
+    ```
  2.Run the script:
-       ```sh
-       python main.py
-         ```
+     ```sh
+     python main.py
+     ```
        
  3.Follow the on-screen menu to perform tasks like adding students, enrolling in courses, or 
    generating reports.
