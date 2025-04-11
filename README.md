@@ -9,13 +9,6 @@
   <li>Menu-driven CLI for smooth navigation</li>
   <li>Simple data storage using text or JSON files</li>
      </ul>
-<h1>🛠️Prerequisites</h1>
- <ul type ="disc>
-  <li>Python 3 installed on your system</li>
-  <li>Basic knowledge of Python, OOP, and file handling</li>
-  <li>Required Python libraries (mostly built-in):</li>
-    </ul>
-    <pre>pip install json datetime prettytable</pre>
 
 <h1>How to Use</h1>
   <ol type = "1">
@@ -26,3 +19,11 @@ cd university-management-system</pre>
        <pre>python main.py</pre>
     <li>Follow the on-screen menu to perform tasks like adding students, enrolling in courses, or generating reports.</li>
   </ol>
+<h1>🛠️Prerequisites</h1>
+ <ul type ="disc>
+  <li>Python 3 installed on your system</li>
+  <li>Basic knowledge of Python, OOP, and file handling</li>
+  <li>Required Python libraries (mostly built-in):</li>
+    </ul>
+    <pre>pip install json datetime prettytable</pre>
+
