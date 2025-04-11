@@ -1,4 +1,4 @@
-# CNSOLE-BASED-University-Management-System
+# CONSOLE-BASED-University-Management-System
 <p>This Python-based console application simulates a basic University Management System, allowing users to manage students, faculty, and courses through a text-based menu interface. It's designed for learning and understanding core concepts like object-oriented programming, file handling, and user interaction through the console.</p>
 <h1>✅ Features</h1>
 <ul type = "disc>
