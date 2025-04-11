@@ -26,8 +26,8 @@
  1.Clone the repository:
     ```sh
     git clone https://github.com/your-username/university-management-system.git
-cd university-management-system
-     ```
+    cd university-management-system
+    ```
  2.Run the script:
        ```sh
        python main.py
